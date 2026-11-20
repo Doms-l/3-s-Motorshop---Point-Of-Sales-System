@@ -66,16 +66,6 @@ The system features a modern desktop interface with a red-and-black theme.
 
 ## 🚀 Installation and Usage
 
-### Option 1: Using the Installer
-
-1. Download the 3’S Motorshop POS installer.
-2. Run the installer.
-3. Follow the installation instructions.
-4. Open the application from your desktop shortcut or Start Menu.
-5. Log in using your account credentials.
-
-### Option 2: Running Through NetBeans
-
 1. Download or clone this repository.
 2. Open NetBeans IDE.
 3. Select **File → Open Project**.
