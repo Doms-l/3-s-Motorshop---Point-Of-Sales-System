@@ -1,0 +1,41 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Regis D\Documents\NetBeansProjects\3'SMotorshop\dist\3SMotorshop.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Regis D\Documents\NetBeansProjects\3'SMotorshop\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\php;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Regis D\AppData\Local\Microsoft\WindowsApps;C:\Users\Regis D\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Regis D\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\clitool;C:\xampp\php;C:\Users\Regis D\AppData\Local\ComposerSetup\bin;C:\Users\Regis D\AppData\Roaming\Composer\vendor\bin;C:\Users\Regis D\AppData\Roaming\npm;C:\Users\Regis D\AppData\Local\Python\bin;C:\Users\Regis D\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim;C:\Program Files\Java\jre1.8.0_202\bin
+JRE paths:	;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\php;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Regis D\AppData\Local\Microsoft\WindowsApps;C:\Users\Regis D\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Regis D\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\clitool;C:\xampp\php;C:\Users\Regis D\AppData\Local\ComposerSetup\bin;C:\Users\Regis D\AppData\Roaming\Composer\vendor\bin;C:\Users\Regis D\AppData\Roaming\npm;C:\Users\Regis D\AppData\Local\Python\bin;C:\Users\Regis D\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim;C:\Program Files\Java\jre1.8.0_202\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Strawberry\c\bin\javaw.exe (not found)
+Check launcher:	C:\Strawberry\perl\site\bin\javaw.exe (not found)
+Check launcher:	C:\Strawberry\perl\bin\javaw.exe (not found)
+Check launcher:	C:\php\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Regis D\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Regis D\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Regis D\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\clitool\bin\javaw.exe (not found)
+Check launcher:	C:\xampp\php\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Regis D\AppData\Local\ComposerSetup\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Regis D\AppData\Roaming\Composer\vendor\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Regis D\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Regis D\AppData\Local\Python\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Regis D\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_202\bin\javaw.exe (OK)
+Version string: 1.008.000_202 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_202\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Regis D\Documents\NetBeansProjects\3'SMotorshop\dist\3_SMotorshop.jar"
+Args length:	85/32768 chars
+Exit code:	0
