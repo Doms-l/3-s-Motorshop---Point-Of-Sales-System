@@ -1,2 +1,2 @@
-# 3-s-Motorshop---Point-Of-Sales-System
+# 3-s-Motorshop-Point-Of-Sales-System
 Point of Sales System Project
